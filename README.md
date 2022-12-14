@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Fuel GraphQL API Examples for JS, Apollo Client, and urql
+
+These examples use the beta-2 version of the Fuel GraphQL API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
